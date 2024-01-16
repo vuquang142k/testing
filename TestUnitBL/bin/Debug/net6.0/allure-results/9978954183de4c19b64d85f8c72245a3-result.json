@@ -1,0 +1,50 @@
+{
+  "uuid": "cdac0e57-9dd5-4df0-9639-98153ac22583-UnitTests.UnitTestsBL.Mock.BookServicesMock.TestAddExistsBook",
+  "historyId": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestAddExistsBook",
+  "fullName": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestAddExistsBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestAddExistsBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestAddExistsBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705418103997,
+  "stop": 1705418103998
+}

@@ -1,0 +1,50 @@
+{
+  "uuid": "596a6277-bedf-419f-824d-57d9581ad01d-UnitTests.UnitTestsDA.BusyBookDAUnitTests.TestAddBusyBook",
+  "historyId": "UnitTests.UnitTestsDA.BusyBookDAUnitTests.TestAddBusyBook",
+  "fullName": "UnitTests.UnitTestsDA.BusyBookDAUnitTests.TestAddBusyBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.BusyBookDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.BusyBookDAUnitTests.TestAddBusyBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.BusyBookDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Busy Book DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.BusyBookDAUnitTests.TestAddBusyBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705418104499,
+  "stop": 1705418104502
+}

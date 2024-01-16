@@ -1,0 +1,50 @@
+{
+  "uuid": "9dc81f27-6119-45e2-8a93-ca58552c725d-UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestAddExistsAccount",
+  "historyId": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestAddExistsAccount",
+  "fullName": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestAddExistsAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestAddExistsAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestAddExistsAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705418103990,
+  "stop": 1705418103991
+}

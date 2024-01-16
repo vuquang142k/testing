@@ -1,0 +1,50 @@
+{
+  "uuid": "3e07e4fa-a0ad-448b-9b52-8d76f4d668a8-UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestDeleteBookstore",
+  "historyId": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestDeleteBookstore",
+  "fullName": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestDeleteBookstore",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestDeleteBookstore"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Bookstore DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestDeleteBookstore",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705418104457,
+  "stop": 1705418104462
+}

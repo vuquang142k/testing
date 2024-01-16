@@ -1,0 +1,50 @@
+{
+  "uuid": "f00f5e01-8a45-4013-9872-d4cd8c6ad7d5-UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetAccount",
+  "historyId": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetAccount",
+  "fullName": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705418134100,
+  "stop": 1705418134264
+}
