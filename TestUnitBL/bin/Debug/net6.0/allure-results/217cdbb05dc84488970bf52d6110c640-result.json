@@ -1,0 +1,50 @@
+{
+  "uuid": "e8de0733-4580-4727-b588-850596d240d0-UnitTests.UnitTestsDA.AccountDAUnitTests.TestDeleteAccount",
+  "historyId": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestDeleteAccount",
+  "fullName": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestDeleteAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestDeleteAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestDeleteAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702328457310,
+  "stop": 1702328457321
+}

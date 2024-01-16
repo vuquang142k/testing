@@ -1,0 +1,50 @@
+{
+  "uuid": "8df50fb2-a14b-47f7-8d99-f032f0d59c2f-UnitTests.UnitTestsBL.Mock.BookServicesMock.TestGetBook",
+  "historyId": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestGetBook",
+  "fullName": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestGetBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestGetBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.BookServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.BookServicesMock.TestGetBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702328456927,
+  "stop": 1702328456929
+}

@@ -1,0 +1,50 @@
+{
+  "uuid": "face74a4-3435-4197-820b-ede7bd247a6e-UnitTests.UnitTestsDA.AccountDAUnitTests.TestAddAccount",
+  "historyId": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestAddAccount",
+  "fullName": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestAddAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestAddAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestAddAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702475539635,
+  "stop": 1702475539639
+}

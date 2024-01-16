@@ -1,0 +1,50 @@
+{
+  "uuid": "ead071a4-8a08-4958-ac00-ebfde3c755cc-UnitTests.UnitTestsDA.BookDAUnitTests.TestDeleteBook",
+  "historyId": "UnitTests.UnitTestsDA.BookDAUnitTests.TestDeleteBook",
+  "fullName": "UnitTests.UnitTestsDA.BookDAUnitTests.TestDeleteBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests.TestDeleteBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.BookDAUnitTests.TestDeleteBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702475539709,
+  "stop": 1702475539712
+}

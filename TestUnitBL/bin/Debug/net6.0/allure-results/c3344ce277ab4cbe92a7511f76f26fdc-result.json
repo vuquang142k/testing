@@ -1,0 +1,50 @@
+{
+  "uuid": "d5e06bc2-b802-4684-8851-a33592f30b49-UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestGetPlaceBook",
+  "historyId": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestGetPlaceBook",
+  "fullName": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestGetPlaceBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestGetPlaceBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Place Book Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestGetPlaceBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702475539268,
+  "stop": 1702475539270
+}

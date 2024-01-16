@@ -1,0 +1,50 @@
+{
+  "uuid": "4d9262aa-9b6f-4cc1-a179-54e83ee2e4b3-UnitTests.UnitTestsDA.PlaceBookDAUnitTests.TestGetIdPlaceBook",
+  "historyId": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests.TestGetIdPlaceBook",
+  "fullName": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests.TestGetIdPlaceBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests.TestGetIdPlaceBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Place Book DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.PlaceBookDAUnitTests.TestGetIdPlaceBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702475584629,
+  "stop": 1702475584629
+}

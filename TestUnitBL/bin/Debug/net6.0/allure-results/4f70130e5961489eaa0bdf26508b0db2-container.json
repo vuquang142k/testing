@@ -1,0 +1,12 @@
+{
+  "uuid": "3e76d2df-e5bd-4ce0-841d-3fbcdd56ef34-UnitTests.UnitTestsBL.Mock.AccountServicesMock",
+  "name": "UnitTests.UnitTestsBL.Mock.AccountServicesMock",
+  "children": [
+    "b029ed15-866f-4aab-b7f7-89c8a860c316-UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestGetIdAccount"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1702328456923,
+  "stop": 1702328456926
+}

@@ -1,0 +1,50 @@
+{
+  "uuid": "74b11db4-7ba2-4041-98d9-b312e541ea19-UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestDeletePlaceBook",
+  "historyId": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestDeletePlaceBook",
+  "fullName": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestDeletePlaceBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestDeletePlaceBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Place Book Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestDeletePlaceBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702465974264,
+  "stop": 1702465974267
+}

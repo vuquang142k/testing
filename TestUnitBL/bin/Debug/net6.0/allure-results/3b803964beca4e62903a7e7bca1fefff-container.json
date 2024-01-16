@@ -1,0 +1,12 @@
+{
+  "uuid": "d928332d-f624-451a-a7af-5eb4cf08c05a-UnitTests.UnitTestsDA.AccountDAUnitTests",
+  "name": "UnitTests.UnitTestsDA.AccountDAUnitTests",
+  "children": [
+    "441103ed-f5a1-4f51-98b1-76c8472a658d-UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1702465974674,
+  "stop": 1702465974675
+}

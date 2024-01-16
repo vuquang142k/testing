@@ -1,0 +1,50 @@
+{
+  "uuid": "a861ca6e-d329-4016-9c63-bcd1f264b265-UnitTests.UnitTestsDA.BookDAUnitTests.TestAddBook",
+  "historyId": "UnitTests.UnitTestsDA.BookDAUnitTests.TestAddBook",
+  "fullName": "UnitTests.UnitTestsDA.BookDAUnitTests.TestAddBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests.TestAddBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.BookDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.BookDAUnitTests.TestAddBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1702328457337,
+  "stop": 1702328457338
+}
