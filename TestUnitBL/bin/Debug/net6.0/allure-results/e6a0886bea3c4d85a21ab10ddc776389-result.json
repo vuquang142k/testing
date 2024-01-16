@@ -1,0 +1,50 @@
+{
+  "uuid": "da0d963b-0df7-4afa-b326-eec066275c9f-UnitTests.UnitTestsBL.Mock.BusyBookServicesMock.TestAddBusyBook",
+  "historyId": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock.TestAddBusyBook",
+  "fullName": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock.TestAddBusyBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock.TestAddBusyBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Busy Book Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.BusyBookServicesMock.TestAddBusyBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705417914434,
+  "stop": 1705417915041
+}

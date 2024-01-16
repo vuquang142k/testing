@@ -1,0 +1,12 @@
+{
+  "uuid": "557085ff-3146-4b3f-a446-9b15cbc14def-UnitTests.UnitTestsBL.Mock.BookServicesMock",
+  "name": "UnitTests.UnitTestsBL.Mock.BookServicesMock",
+  "children": [
+    "e47f7c00-7bd0-4a47-b70e-c20bc3144478-UnitTests.UnitTestsBL.Mock.BookServicesMock.TestBookGetAll"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705417915043,
+  "stop": 1705417915047
+}

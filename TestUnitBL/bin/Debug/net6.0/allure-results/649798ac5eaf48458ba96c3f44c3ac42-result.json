@@ -1,0 +1,50 @@
+{
+  "uuid": "82c2dd25-9139-48f4-ba73-7201a407b29c-UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestDeleteAccount",
+  "historyId": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestDeleteAccount",
+  "fullName": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestDeleteAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestDeleteAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.AccountServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.AccountServicesMock.TestDeleteAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705417915042,
+  "stop": 1705417915046
+}

@@ -1,0 +1,46 @@
+{
+  "uuid": "169ba1d7-cc5f-4e06-8b10-edeb272170dd-UnitTests.UnitTestsBL.Classic.BookServicesUnitTests.TestGetAllBook",
+  "historyId": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests.TestGetAllBook",
+  "fullName": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests.TestGetAllBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests.TestGetAllBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests"
+    },
+    {
+      "name": "suite",
+      "value": "Classic Book Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Classic.BookServicesUnitTests.TestGetAllBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705417975624,
+  "stop": 1705417976714
+}

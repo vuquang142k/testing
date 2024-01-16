@@ -1,0 +1,12 @@
+{
+  "uuid": "6e249eee-4c3a-4dbb-b483-ebcba5aec251-UnitTests.UnitTestsBL.Mock.BookstoreServicesMock",
+  "name": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock",
+  "children": [
+    "72b629de-c6d5-45ae-8411-953b47baaab0-UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetIdBookstoreByPlaceBook"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705417915043,
+  "stop": 1705417915046
+}
