@@ -104,26 +104,26 @@ jobs:
     #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml rm -f  #delete stopped containers
       run: docker-compose -f ${PWD}/IntegrationTest/docker/IntegrationContainer/docker-compose.yml down
 
-    # # E2E Test
-    # - name: Start E2E Container in Docker
-    #  # run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml up -d postgres-integration
-    #   run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml up -d
+    # E2E Test
+    - name: Start E2E Container in Docker
+     # run: docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml up -d postgres-integration
+      run: docker-compose -f ${PWD}/IntegrationTest/docker/IntegrationContainer/docker-compose.yml up -d
 
-    # - name: Run E2E Test
-    #   run: dotnet test ${PWD}/E2E/E2E.csproj
+    - name: Run E2E Test
+      run: dotnet test ${PWD}/E2E/E2E.csproj
 
-    # - name: Stop E2E Container in Docker
-    #   run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml down
+    - name: Stop E2E Container in Docker
+      run: docker-compose -f ${PWD}/IntegrationTest/docker/IntegrationContainer/docker-compose.yml down
 
-    # - name: Test marketplace action
-    #   uses: simple-elf/allure-report-action@master
-    #   if: always()
-    #   id: allure-report
-    #   with:
-    #     allure_results: ${PWD}/IntegrationTests/bin/Debug/net6.0/allure-results
-    #     gh_pages: gh-pages
-    #     allure_report: allure-report
-    #     allure_history: allure-history
+    - name: Test marketplace action
+      uses: simple-elf/allure-report-action@master
+      if: always()
+      id: allure-report
+      with:
+        allure_results: ${PWD}/IntegrationTest/bin/Debug/net6.0/allure-results
+        gh_pages: gh-pages
+        allure_report: allure-report
+        allure_history: allure-history
 
 #     # Add  MSBuild to the PATH: https://github.com/microsoft/setup-msbuild
 #     - name: Setup MSBuild.exe
