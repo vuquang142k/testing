@@ -91,18 +91,18 @@ jobs:
     - name: Stop Unit Container in Docker
       run: docker-compose -f ${PWD}/TestUnitBL/docker/UnitContainer/docker-compose.yml down
       
-    # # Integration Tests
-    # - name: Start Integration Container in Docker
-    #   run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml up -d
+    # Integration Tests
+    - name: Start Integration Container in Docker
+      run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml up -d
 
-    # - name: Run Integration Tests
-    #   run: dotnet test ${PWD}/IntegrationTests/IntegrationTests.csproj
+    - name: Run Integration Tests
+      run: dotnet test ${PWD}/IntegrationTests/IntegrationTests.csproj
 
-    # - name: Stop Integration Container in Docker
-    # #  run: |
-    # #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml stop postgres-integration
-    # #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml rm -f  #delete stopped containers
-    #   run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml down
+    - name: Stop Integration Container in Docker
+    #  run: |
+    #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml stop postgres-integration
+    #    docker-compose -f ${PWD}/Testing/docker/IntegrationContainer/docker-compose.yml rm -f  #delete stopped containers
+      run: docker-compose -f ${PWD}/IntegrationTests/docker/IntegrationContainer/docker-compose.yml down
 
     # # E2E Test
     # - name: Start E2E Container in Docker
