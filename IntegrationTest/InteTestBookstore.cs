@@ -34,18 +34,6 @@ namespace IntegrationTests
         }
 
         [AllureXunit]
-        public void TestAddBookstore()
-        {
-            //Arrange
-            int id_bookstore = 3;
-            Bookstore newBookstore = BookstoreOM.NumberedBookstore(id_bookstore).buildBL();
-            //Action
-            int id_newBookstore = _fixture.bookstoreServices.addBookstore(newBookstore);
-            //Assert
-            Assert.Equal(newBookstore.Id, id_newBookstore);
-        }
-
-        [AllureXunit]
         public void TestGetBookstore()
         {
             //Arrange

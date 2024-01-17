@@ -1,0 +1,12 @@
+{
+  "uuid": "b86ebb93-094e-4032-a651-15f7ce3d1e94",
+  "name": "IntegrationTests.InteTestBookstore",
+  "children": [
+    "7ae86632-41f1-4041-bee0-7e76563ffacb"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705500526263,
+  "stop": 1705500526266
+}
