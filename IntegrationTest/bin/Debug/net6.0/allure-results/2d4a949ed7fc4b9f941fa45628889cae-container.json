@@ -1,0 +1,12 @@
+{
+  "uuid": "e67ce384-4a4d-4571-ba30-0d1071126e23",
+  "name": "IntegrationTests.InteTestBusyBook",
+  "children": [
+    "03cc2cc4-2cce-4bde-941d-9ff8c30a5c55"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705499269847,
+  "stop": 1705499269849
+}

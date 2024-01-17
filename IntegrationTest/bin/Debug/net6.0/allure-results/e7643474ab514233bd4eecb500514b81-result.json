@@ -1,0 +1,59 @@
+{
+  "uuid": "eb423ce0-3bf1-415a-87d0-62a96fa65f42",
+  "historyId": "f5c07c875927501e149da087b56a6be6",
+  "testCaseId": "7fb2b0737f78c90541f3ec5868335fd5",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBook.TestDeleteBook()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBook.TestDeleteBook"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBook.TestDeleteBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705496866990,
+  "stop": 1705496868158
+}

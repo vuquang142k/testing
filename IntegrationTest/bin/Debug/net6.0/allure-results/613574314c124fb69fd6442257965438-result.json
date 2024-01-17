@@ -1,0 +1,59 @@
+{
+  "uuid": "ff839d89-928f-475b-a00c-33c8b15d9c3c",
+  "historyId": "378e70d37861b9d19ce3c476dbd537ed",
+  "testCaseId": "32f18f0afb9f1a17fb33b46ed36beb1e",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestAccount.TestDeleteAccount()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestAccount.TestDeleteAccount"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestAccount.TestDeleteAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705495010982,
+  "stop": 1705495011135
+}

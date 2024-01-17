@@ -1,0 +1,59 @@
+{
+  "uuid": "ebb17c26-6b11-44ff-84c3-4e5fefadaab0",
+  "historyId": "ac2c62cdf880eb12f9af0d2e7656a9c1",
+  "testCaseId": "712e3e38a056a3958229f8c4c5bceddf",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestAccount.TestAddAccount()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestAccount.TestAddAccount"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestAccount.TestAddAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705495011137,
+  "stop": 1705495011141
+}

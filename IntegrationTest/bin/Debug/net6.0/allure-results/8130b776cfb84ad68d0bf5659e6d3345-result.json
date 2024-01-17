@@ -1,0 +1,59 @@
+{
+  "uuid": "2727df36-2e15-43eb-9646-a37019faa1b6",
+  "historyId": "d6db4b9e42f14788a127c9dbe3db5574",
+  "testCaseId": "73aef7a9996b0787a02f73e8f9efa777",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBookstore.TestGetIdBookstoreByPlaceBook()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBookstore"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBookstore.TestGetIdBookstoreByPlaceBook"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBookstore"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Bookstore Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBookstore.TestGetIdBookstoreByPlaceBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705497839297,
+  "stop": 1705497840085
+}

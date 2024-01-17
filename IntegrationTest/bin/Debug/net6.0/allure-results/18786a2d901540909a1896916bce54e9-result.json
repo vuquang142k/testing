@@ -1,0 +1,59 @@
+{
+  "uuid": "738c030d-61ba-4eb3-b92f-30b237a356b2",
+  "historyId": "fee64646683f2fce1d0572b879722ef5",
+  "testCaseId": "31b23ab84ff5ec0b327b4f3f8e14fefc",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBusyBook.TestAddBusyBook()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBusyBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBusyBook.TestAddBusyBook"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBusyBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Busy Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBusyBook.TestAddBusyBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705499269730,
+  "stop": 1705499269846
+}

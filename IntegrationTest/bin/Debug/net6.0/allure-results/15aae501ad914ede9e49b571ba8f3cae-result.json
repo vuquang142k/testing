@@ -1,0 +1,60 @@
+{
+  "uuid": "5e2a06ca-7335-4628-8c8c-37be3a3d832c",
+  "historyId": "94522a07856ac19e064122a13a79c9ea",
+  "testCaseId": "06aba4c79ae9422468117141b4b7c95d",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestAccount.TestGetIdAccount()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestAccount.TestGetIdAccount"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestAccount.TestGetIdAccount",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "\nПользователь не найден!\n",
+    "trace": "   at BL.BL.AccountServices.getIdAccount(String login) in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\BL\\BL\\AccountServices.cs:line 42\r\n   at IntegrationTests.InteTestAccount.TestGetIdAccount() in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\IntegrationTest\\InteTestAccount.cs:line 39"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705419936248,
+  "stop": 1705419936250
+}

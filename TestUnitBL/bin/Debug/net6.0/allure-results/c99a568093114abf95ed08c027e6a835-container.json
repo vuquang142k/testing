@@ -1,0 +1,12 @@
+{
+  "uuid": "168df85a-1fdc-43d5-8d2f-9458116ad904-UnitTests.UnitTestsDA.BookstoreDaUnitTests",
+  "name": "UnitTests.UnitTestsDA.BookstoreDaUnitTests",
+  "children": [
+    "c71a5843-2f38-4d82-8760-53b9631cd4e2-UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705419759403,
+  "stop": 1705419759405
+}

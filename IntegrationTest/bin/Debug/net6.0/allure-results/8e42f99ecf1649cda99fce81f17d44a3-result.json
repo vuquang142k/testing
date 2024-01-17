@@ -1,0 +1,60 @@
+{
+  "uuid": "013a30bd-dca2-4c4b-b6e4-be286d7095c0",
+  "historyId": "b03ff61b85a1072924ebf3d8bf2d1f0a",
+  "testCaseId": "7d2922d92df30bb574ff216a7b7e3b3f",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBusyBook.TestGetIdBusyBookByBook()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBusyBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBusyBook.TestGetIdBusyBookByBook"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBusyBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Busy Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBusyBook.TestGetIdBusyBookByBook",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure\r\nExpected: 1\r\nActual:   -1",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\EqualityAsserts.cs:line 40\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\EqualityAsserts.cs:line 24\r\n   at IntegrationTests.InteTestBusyBook.TestGetIdBusyBookByBook() in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\IntegrationTest\\InteTestBusyBook.cs:line 67"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705499247961,
+  "stop": 1705499248791
+}

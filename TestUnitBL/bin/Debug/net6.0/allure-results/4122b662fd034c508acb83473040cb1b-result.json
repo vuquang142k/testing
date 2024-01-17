@@ -1,0 +1,50 @@
+{
+  "uuid": "7df8672a-b896-449e-b36b-5148b9487fe7-UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount",
+  "historyId": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount",
+  "fullName": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.AccountDAUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.AccountDAUnitTests.TestGetIdAccount",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705419759352,
+  "stop": 1705419759353
+}

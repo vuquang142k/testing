@@ -1,0 +1,59 @@
+{
+  "uuid": "3ff3d958-74cf-497c-92b7-20b789328a84",
+  "historyId": "5129883fe1513c183afeebcb9faa29b9",
+  "testCaseId": "d84193cebf216c7f32a217022b1ceb09",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBook.TestBookGetAll()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBook.TestBookGetAll"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBook.TestBookGetAll",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705496714886,
+  "stop": 1705496715737
+}

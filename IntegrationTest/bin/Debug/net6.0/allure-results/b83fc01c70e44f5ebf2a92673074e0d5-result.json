@@ -1,0 +1,59 @@
+{
+  "uuid": "a37b0e11-a7b9-4e0f-9aee-dfaec2740a90",
+  "historyId": "11613d3d4ebbddd8bec61d56499a507d",
+  "testCaseId": "10007ef1290a46e37435c2fa0bf32cb1",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestPlaceBook.TestDeletePlaceBook()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestPlaceBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestPlaceBook.TestDeletePlaceBook"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestPlaceBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Place Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestPlaceBook.TestDeletePlaceBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705497385859,
+  "stop": 1705497386876
+}

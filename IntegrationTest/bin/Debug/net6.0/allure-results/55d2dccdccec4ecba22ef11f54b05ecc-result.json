@@ -1,0 +1,60 @@
+{
+  "uuid": "e39cb815-786a-4c34-a20f-3f511ac2dc59",
+  "historyId": "adccbb7414541a9d52a33c172decc786",
+  "testCaseId": "4b2542d45fc4759b1b6bb9ee067f2994",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestBookstore.TestGetAllBookstore()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestBookstore"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestBookstore.TestGetAllBookstore"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestBookstore"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Bookstore Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestBookstore.TestGetAllBookstore",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Assert.Equal() Failure\r\nExpected: 2\r\nActual:   3",
+    "trace": "   at Xunit.Assert.Equal[T](T expected, T actual, IEqualityComparer`1 comparer) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\EqualityAsserts.cs:line 40\r\n   at Xunit.Assert.Equal[T](T expected, T actual) in C:\\Dev\\xunit\\xunit\\src\\xunit.assert\\Asserts\\EqualityAsserts.cs:line 24\r\n   at IntegrationTests.InteTestBookstore.TestGetAllBookstore() in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\IntegrationTest\\InteTestBookstore.cs:line 55"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705497840346,
+  "stop": 1705497840368
+}

@@ -1,0 +1,60 @@
+{
+  "uuid": "ba79565c-f2d0-4e5f-bb26-e0cde3b8451a",
+  "historyId": "6546e75ec428c8d863add6542ce0f057",
+  "testCaseId": "98f715f328aeac43a87349f7bc38ef8a",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestAccount.TestGetAccount()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestAccount.TestGetAccount"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestAccount"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Account Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestAccount.TestGetAccount",
+  "status": "broken",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "Object reference not set to an instance of an object.",
+    "trace": "   at DA.AccountDA.getAccount(Int32 id) in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\DA\\DA\\AccountDA.cs:line 25\r\n   at BL.BL.AccountServices.getAccount(Int32 id) in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\BL\\BL\\AccountServices.cs:line 53\r\n   at IntegrationTests.InteTestAccount.TestGetAccount() in C:\\Users\\Quang\\OneDrive\\Desktop\\testing\\IntegrationTest\\InteTestAccount.cs:line 50"
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705419935300,
+  "stop": 1705419936182
+}

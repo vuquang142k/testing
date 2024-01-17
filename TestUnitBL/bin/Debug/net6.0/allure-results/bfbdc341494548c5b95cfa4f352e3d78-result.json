@@ -1,0 +1,50 @@
+{
+  "uuid": "c71a5843-2f38-4d82-8760-53b9631cd4e2-UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook",
+  "historyId": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook",
+  "fullName": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsDA.BookstoreDaUnitTests"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Bookstore DataAccess Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsDA.BookstoreDaUnitTests.TestGetIdBookstoreByBook",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705419759404,
+  "stop": 1705419759404
+}

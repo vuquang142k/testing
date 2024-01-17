@@ -1,0 +1,50 @@
+{
+  "uuid": "31f23bd8-13d5-4b5c-b5fa-79dc3294e1cf-UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetBookstore",
+  "historyId": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetBookstore",
+  "fullName": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetBookstore",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock"
+    },
+    {
+      "name": "testMethod",
+      "value": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetBookstore"
+    },
+    {
+      "name": "package",
+      "value": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Bookstore Services Unit Tests"
+    }
+  ],
+  "links": [],
+  "name": "UnitTests.UnitTestsBL.Mock.BookstoreServicesMock.TestGetBookstore",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705419758886,
+  "stop": 1705419758889
+}

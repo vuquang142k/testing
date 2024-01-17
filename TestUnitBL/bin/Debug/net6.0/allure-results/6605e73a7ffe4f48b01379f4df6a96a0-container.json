@@ -1,0 +1,12 @@
+{
+  "uuid": "49fa00c2-1ebb-46b9-85f2-e1735da28dc6-UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock",
+  "name": "UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock",
+  "children": [
+    "2a0a13be-f202-4844-95f2-52df3b78016a-UnitTests.UnitTestsBL.Mock.PlaceBookServicesMock.TestAddPlaceBook"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1705419758896,
+  "stop": 1705419758902
+}

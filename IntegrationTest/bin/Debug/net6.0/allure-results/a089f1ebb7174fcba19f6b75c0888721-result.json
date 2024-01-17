@@ -1,0 +1,59 @@
+{
+  "uuid": "edc57ce9-91c1-484d-a6f9-b281799619ab",
+  "historyId": "8d2613b673d332d20b960ece50b93ab1",
+  "testCaseId": "01038f6cde063643410f757b470b02ad",
+  "fullName": "IntegrationTest:IntegrationTests.InteTestPlaceBook.TestPlaceBookGetAll()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": ".NET Long Running Task"
+    },
+    {
+      "name": "host",
+      "value": "DESKTOP-1O07BRG"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "xUnit.net"
+    },
+    {
+      "name": "testClass",
+      "value": "IntegrationTests.InteTestPlaceBook"
+    },
+    {
+      "name": "testMethod",
+      "value": "IntegrationTests.InteTestPlaceBook.TestPlaceBookGetAll"
+    },
+    {
+      "name": "package",
+      "value": "IntegrationTests.InteTestPlaceBook"
+    },
+    {
+      "name": "owner",
+      "value": "Quang"
+    },
+    {
+      "name": "suite",
+      "value": "Place Book Integration Tests"
+    }
+  ],
+  "links": [],
+  "name": "IntegrationTests.InteTestPlaceBook.TestPlaceBookGetAll",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": ""
+  },
+  "stage": "finished",
+  "steps": [],
+  "attachments": [],
+  "parameters": [],
+  "start": 1705497400816,
+  "stop": 1705497400825
+}
